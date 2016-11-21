@@ -1,0 +1,68 @@
+﻿  main.cpp
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(134): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(151): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(161): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(178): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(188): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(210): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(213): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(235): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(243): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(262): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(273): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(289): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(299): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(317): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(83): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(170): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(171): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(221): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(252): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(283): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(308): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\sangyun\documents\github\12141579_윤찬미\12141579_윤찬미\main.cpp(309): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  AES.cpp
+  코드를 생성하고 있습니다...
+  12141579_윤찬미.vcxproj -> C:\Users\Sangyun\Documents\GitHub\12141579_윤찬미\Debug\12141579_윤찬미.exe
